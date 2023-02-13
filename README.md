@@ -1,2 +1,4 @@
 # sentiment_analysis
-Ai project
+
+
+Sentiment Analysis of Twitter data using python
